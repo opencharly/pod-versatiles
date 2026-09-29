@@ -20,6 +20,8 @@ Canonical files:
 - `/charly-versa:shortbread` — produces the PMTiles files versatiles serves.
 - `/charly-versa:versatiles-frontend` — the SPA for exploring tile content.
 - `/charly-versa:versa` — the image composing this layer.
+- `/charly-pod:pod` — the `kind: pod` / deploy schema reference (this candy is
+  composed into a box; services, ports).
 - `/charly-image:layer` — the candy authoring reference (`charly.yml` schema,
   `plan:` step verbs incl. `run:` / `write:` / `check:`, service declarations).
 - `/charly-check:check` — the check/R10 framework (`charly check box`,
