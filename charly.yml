@@ -14,7 +14,7 @@ versatiles:
             the linked convert subcommand, the serve wrapper, the running service, the
             reachable port, and the HTTP 200 a known OSM tile endpoint returns.
         require:
-            - '@github.com/opencharly/layer-supervisord:v2026.240.0121'
+            - '@github.com/opencharly/layer-supervisord:v2026.271.1817'
         distro:
             arch:
                 package:
